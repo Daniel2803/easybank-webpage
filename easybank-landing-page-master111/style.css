@@ -1,0 +1,85 @@
+body {font-family: 'Public Sans', sans-serif;margin: 0;}
+
+p {color: hsl(233, 8%, 62%);}
+
+h1{margin-left: 150px;padding-top: 150px;font-size: 60px;font-weight: 100;width: 30%;}
+
+h2{padding-top: 100px; font-size:40px; font-weight:100; margin-left: 150px;}
+
+h4 {font-size: 22px;font-weight: 100;}
+h5{width: 27%;font-weight: 100;font-size: 17px;}
+footer {background-color: hsl(233, 26%, 24%);margin-top: 700px; color: white;padding-bottom: 100px;padding-top: 30px;}
+.home {position: absolute;top:24px;right:1000px;}
+.ab {position: absolute;top:24px;right:910px;}
+.con {position: absolute;top:24px;right:820px;}
+.blog {position: absolute;top:24px;right:750px;}
+.car {position: absolute;top:24px;right:660px;}
+
+.top-con{background-color: hsl(0, 0%, 98%)}
+.top-p{width: 26%;margin-left: 150px;line-height: 1.5;font-size: 17px;}
+
+.myButton {
+  margin-left: 150px;
+  padding-bottom: 100px;
+	background-color:#1fed7f;
+	border-radius:28px;
+	border:1px solid #23db98;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:14px 29px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.top-p2 {margin-left: 150px; width: 37%;line-height: 1.5;font-size: 17px;padding-bottom: 400px;}
+.middle-p{width: 15%;line-height: 1.5;}
+
+.online{position: absolute;top: 1000px;width: 90%; left: 150px;}
+.simple{position: absolute;top: 1000px;width: 90%; left: 450px;}
+.fast{position: absolute;top: 1000px;width: 90%; left: 750px;}
+.open{position: absolute;top: 1000px;width: 90%; left: 1050px;}
+
+.middle-p1{width: 30%;font-size: 14px;}
+.middle-p2{width: 30%;font-size: 14px;}
+.middle-p3{width: 30%;font-size: 14px;}
+.middle-p4{width: 30%;font-size: 14px;}
+
+.claire1{position: absolute;top: 1550px;left: 200px;}
+.wilson1{position: absolute;top: 1550px;left: 500px;}
+.wilson2{position: absolute;top: 1550px;left: 800px;}
+.claire2{position: absolute;top: 1550px;left: 1100px; right: 0px;}
+
+.footer1{position: absolute;top: 2140px;left:500px; }
+.footer2{position: absolute;top: 2140px;left:700px; }
+
+.footer-p{position: absolute; right: 100px;}
+.myButton1 {
+  position: absolute;
+  right: 100px;
+	background-color:#1fed7f;
+	border-radius:28px;
+	border:1px solid #23db98;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:14px 29px;
+	text-decoration:none;
+}
+.myButton1:hover {
+	background-color:#5cbf2a;
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
